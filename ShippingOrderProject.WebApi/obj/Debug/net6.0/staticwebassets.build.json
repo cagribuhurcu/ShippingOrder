@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zw58LkpYdDhWCv05FQ5psqc011wTSoOM1SApfSQuOAQ=",
+  "Source": "ShippingOrderProject.WebApi",
+  "BasePath": "_content/ShippingOrderProject.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

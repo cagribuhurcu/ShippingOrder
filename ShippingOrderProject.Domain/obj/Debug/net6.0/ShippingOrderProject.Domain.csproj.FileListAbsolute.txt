@@ -1,0 +1,12 @@
+C:\Challenge\ShippingOrderProject.Domain\bin\Debug\net6.0\ShippingOrderProject.Domain.deps.json
+C:\Challenge\ShippingOrderProject.Domain\bin\Debug\net6.0\ShippingOrderProject.Domain.dll
+C:\Challenge\ShippingOrderProject.Domain\bin\Debug\net6.0\ShippingOrderProject.Domain.pdb
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ShippingOrderProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ShippingOrderProject.Domain.AssemblyInfoInputs.cache
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ShippingOrderProject.Domain.AssemblyInfo.cs
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ShippingOrderProject.Domain.csproj.CoreCompileInputs.cache
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ShippingOrderProject.Domain.dll
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\refint\ShippingOrderProject.Domain.dll
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ShippingOrderProject.Domain.pdb
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ref\ShippingOrderProject.Domain.dll
+C:\Challenge\ShippingOrderProject.Domain\obj\Debug\net6.0\ShippingOrderProject.Domain.sourcelink.json
