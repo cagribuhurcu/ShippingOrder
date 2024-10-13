@@ -57,3 +57,9 @@ Projede Swagger entegre edilmiştir, böylece API'yi kolayca test edebilirsiniz.
 ### 6. Hangfire Kullanımı
 Projede ayrıca Hangfire ile bir arka plan job sistemi kuruludur. Hangfire Dashboard, arka plan job'larının durumlarını izleyebilmeniz ve yönetebilmeniz için kullanışlı bir arayüz sunar. Uygulama çalıştırıldığında Hangfire Dashboard'a aşağıdaki URL'den erişebilirsiniz:
 - 🔗 **Hangfire Dashboard URL**: https://localhost[port]/hangfire
+
+### 7. Proje Görüntüleri
+![Imgur](https://i.imgur.com/gdEkvnr.png)
+![Imgur](https://i.imgur.com/rZkpD5y.png)
+![Imgur](https://i.imgur.com/OtPo0jb.png)
+![Imgur](https://i.imgur.com/FjVGPww.png)
